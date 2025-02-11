@@ -19,7 +19,7 @@ app.get("/api/products", async (req, res) => {
 });
 
 // Define a simple route to get product details by productId
-app.get("/api/products/:productId", async (req, res) => {
+app.get("/api/product/:productId", async (req, res) => {
     const { productId } = req.params;
 
     try {
