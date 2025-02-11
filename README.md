@@ -5,4 +5,4 @@ npm init -y
 npm install express mongoose cors dotenv
 
 
-Create Server (server.js)
+Run backend: node server.js
