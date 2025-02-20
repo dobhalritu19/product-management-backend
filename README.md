@@ -6,3 +6,4 @@ npm install express mongoose cors dotenv
 
 
 Run backend: node server.js
+npm run start:dev
